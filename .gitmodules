@@ -1,0 +1,3 @@
+[submodule "whitelistFrontEnd"]
+	path = whitelistFrontEnd
+	url = https://github.com/asutosh99/whitelistFrontEnd.git
